@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "PyEye": {
+      "applicationId": "viNLvbxfYcOE0PL7VtwjUUptkDx60lnxcs24VR8U",
+      "masterKey": "BIbc0uvGki2Bo4FRehdKmn8NdnG5fPN80C7GlzUf"
+    },
+    "_default": {
+      "link": "PyEye"
+    }
+  }
+}
