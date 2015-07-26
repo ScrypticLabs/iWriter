@@ -1,4 +1,4 @@
-![alt-tag](https://raw.githubusercontent.com/AbhiGupta47/PyEye/master/src/imgs/PyEye_Logo(revised).png?token=AJODQpHvrWr390bOE4_ydt_Dx4ZonFGHks5UzQoHwA%3D%3D)
+![alt-tag](https://raw.githubusercontent.com/AbhiGupta47/PyEye/master/src/imgs/PyEye_Logo(revised).png?token=AKHSEd41vFG2LwlEC8_Ha_Oz0tlEJ_Qhks5Vvo80wA%3D%3D)
 
 # Communication. As easy as PyEye
 An apparatus that provides users with the ability to surf the web, access their email accounts, write reports, play games and most importantly, communicate through the text-to-speech API using their eye-gaze. Implementing the Eye Tribe API, this device uses the native yet powerful algorithms of the provided SDK along with Parse Core to enable the user to personalize and log into their own accounts. The end-result is a Python-based desktop app that interfaces between several different operations such as doing work or just having fun merely with the eyes.
