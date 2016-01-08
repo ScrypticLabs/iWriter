@@ -1,4 +1,4 @@
-![alt-tag](https://github.com/ScrypticLabs/PyEye/blob/master/src/imgs/PyEye_Logo-GitHub.psd)
+![alt-tag](https://github.com/ScrypticLabs/PyEye/blob/master/src/imgs/PyEye_Logo-GitHub.png)
 
 An apparatus that provides users with the ability to surf the web, access their email accounts, write reports, play games and most importantly, communicate through the text-to-speech API using their eye-gaze. Implementing the Eye Tribe API, this device uses the native yet powerful algorithms of the provided SDK along with Parse Core to enable the user to personalize and log into their own accounts. The end-result is a Python-based desktop app that interfaces between several different operations such as doing work or just having fun merely with the eyes.
 
