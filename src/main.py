@@ -6,12 +6,12 @@
 # @Last Modified time: 2015-06-21 23:48:35
 
 """
-PyEye is a platform for games and other productivity applications that can be interfaced with the eyes or the cursor. 
+iWriter is a platform for games and other productivity applications that can be interfaced with the eyes or the cursor. 
 It is specfiically designed for ALS patients who suffer from a poorer quality of life and hence, with this program
 patients and users can create their own web-enabled accounts, write notes, play games such as chess, pong, connect4, etc.
 and most importantly, communicate by typing on a virtual keyboard (speech-enabled). Users can also send text 
 messages to specified numbers but currently, there is no GUI for the messages app yet. Mail is another outlet for exapansion
-and the program has been designed so that several tiles can be added to the home screen to diverse PyEye and provide 
+and the program has been designed so that several tiles can be added to the home screen to diverse iWriter and provide 
 the user with a better and more productive experience.
 """
 
